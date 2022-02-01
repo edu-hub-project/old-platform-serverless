@@ -1,0 +1,7 @@
+# API config Files
+api-key       : zoom-api-key
+api-secret    : zoom-api-secret
+lms-url       : limesurvey url (ends with admin/remotecontrol usually)
+lms-user      : limesurvey user
+lms-password  : limesurvey password
+lms-sid       : limesurvey survey id
